@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/CancelFourGameProject/static/css/main.5f361e03.chunk.css",
+    "main.js": "/CancelFourGameProject/static/js/main.fa351353.chunk.js",
+    "main.js.map": "/CancelFourGameProject/static/js/main.fa351353.chunk.js.map",
+    "runtime-main.js": "/CancelFourGameProject/static/js/runtime-main.a5334f6d.js",
+    "runtime-main.js.map": "/CancelFourGameProject/static/js/runtime-main.a5334f6d.js.map",
+    "static/js/2.763b34e5.chunk.js": "/CancelFourGameProject/static/js/2.763b34e5.chunk.js",
+    "static/js/2.763b34e5.chunk.js.map": "/CancelFourGameProject/static/js/2.763b34e5.chunk.js.map",
+    "index.html": "/CancelFourGameProject/index.html",
+    "precache-manifest.39d317d2393cb94c4ed221e49e7b0d80.js": "/CancelFourGameProject/precache-manifest.39d317d2393cb94c4ed221e49e7b0d80.js",
+    "service-worker.js": "/CancelFourGameProject/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/CancelFourGameProject/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.763b34e5.chunk.js.LICENSE.txt": "/CancelFourGameProject/static/js/2.763b34e5.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/CancelFourGameProject/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a5334f6d.js",
+    "static/js/2.763b34e5.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.fa351353.chunk.js"
+  ]
+}
